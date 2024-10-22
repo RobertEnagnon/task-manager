@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Acheter des fournitures",
+        "desc": "Acheter du papier, des stylos, et du ruban adhésif",
+        "deadline": "2024-10-10",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Répondre aux emails",
+        "desc": "Répondre aux emails des clients avant 17h",
+        "deadline": "2024-10-11",
+        "completed": true
+    }
+]
