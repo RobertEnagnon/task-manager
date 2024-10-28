@@ -80,10 +80,10 @@ form button:hover {
     background-color: #ff2f2f;
 }
 
-#tasks li.complete-btn {
+#tasks li .complete-btn {
     background-color: #4caf50;
 }
 
-#tasks li.complete-btn:hover {
+#tasks li .complete-btn:hover {
     background-color: #45a049;
 }
